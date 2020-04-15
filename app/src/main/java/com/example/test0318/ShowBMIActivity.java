@@ -35,13 +35,13 @@ public class ShowBMIActivity extends AppCompatActivity {
         name.setText(n);
         String msg="";
         if(bmi<18.5) {
-            msg ="過輕";
+            msg =getString(R.string.toolow);
             view1.setImageResource(R.drawable.a1);
         } else if (bmi>25) {
-            msg = "過重";
+            msg = getString(R.string.toohigh);
             view1.setImageResource(R.drawable.a3);
         } else {
-            msg = "標準";
+            msg = getString(R.string.good);
             view1.setImageResource(R.drawable.a2);
         }
         Toast.makeText(this, msg, Toast.LENGTH_LONG).show();

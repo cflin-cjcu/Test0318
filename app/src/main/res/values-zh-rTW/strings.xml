@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test0318</string>
+    <string name="height">身高</string>
+    <string name="name">姓名</string>
+    <string name="submit">確定</string>
+    <string name="weight">體重</string>
+    <string name="toolow">過輕</string>
+    <string name="toohigh">過重</string>
+    <string name="good">標準</string>
+</resources>

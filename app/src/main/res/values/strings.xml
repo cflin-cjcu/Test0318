@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Test0318</string>
+    <string name="height">Height</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="weight">Weight</string>
+    <string name="toolow">toolow</string>
+    <string name="toohigh">toohigh</string>
+    <string name="good">good</string>
 </resources>
