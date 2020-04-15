@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Test0318</string>
+    <string name="toolow">過輕</string>
+    <string name="toohigh">過重</string>
+    <string name="good">標準</string>
 </resources>
